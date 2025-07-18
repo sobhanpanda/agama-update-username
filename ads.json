@@ -3,10 +3,10 @@
         "projectName": "update-user-profile",
         "description": "update the user profile flow",
         "type": "community",
-        "author": "AutomateCentroxy",
+        "author": "PhiWallet",
         "version": "0.0.1",
-        "authorWebsite": "https://github.com/AutomateCentroxy/update_user_profile",
-        "githubUri": "https://github.com/AutomateCentroxy/update_user_profile",
+        "authorWebsite": "https://github.com/sobhanpanda/agama-update-username",
+        "githubUri": "https://github.com/sobhanpanda/agama-update-username",
         "license": "apache-2.0",
         "lastUpdated": "1751983511652",
         "tags": [
