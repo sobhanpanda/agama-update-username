@@ -3,7 +3,7 @@
         "projectName": "update-user-profile",
         "description": "update the user profile flow",
         "type": "community",
-        "author": "GluuFederation",
+        "author": "PhiWallet",
         "version": "0.0.1",
         "authorWebsite": "https://github.com/sobhanpanda/agama-update-username",
         "githubUri": "https://github.com/sobhanpanda/agama-update-username",
